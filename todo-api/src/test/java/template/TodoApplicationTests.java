@@ -1,4 +1,4 @@
-package be.ordina.jworks.todoapi;
+package template;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
